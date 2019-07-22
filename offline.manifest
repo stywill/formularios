@@ -1,0 +1,27 @@
+CACHE MANIFEST
+
+
+#v1
+
+
+CACHE:
+index.php
+sincronizar.php
+css/coreui-icons.min.css
+css/flag-icon.min.css
+css/font-awesome.min.css
+css/style.css
+js/coreui.min.js
+js/jquery.validate.js
+js/validacoes.js
+js/conexao.js
+NETWORK:
+https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.min.css
+https://cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js
+https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css
+https://code.jquery.com/jquery-3.4.1.min.js
+https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js
+https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js
+https://cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js
+https://cdnjs.cloudflare.com/ajax/libs/jquery.perfect-scrollbar/1.4.0/perfect-scrollbar.min.js 
+*
